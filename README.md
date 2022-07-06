@@ -47,7 +47,7 @@ Escreva uma função chamada **\"multiply\"** que pega dois argumentos e
 retorna o seu produto.
 
 Em vez de usar operadores mátematicos ou funções aritimeticas
-incorporadas, você precisará de um loop for que chama a função
+incorporadas, você precisará de um loop f        or que chama a função
 **\"add\"** criada anteriormente.
 
 Por exemplo, chamar **multiply(6, 8)** deve retornar um **resultado
